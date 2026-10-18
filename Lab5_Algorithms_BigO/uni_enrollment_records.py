@@ -54,9 +54,8 @@ ordering_verified = (
     sorted(consolidated_dataset)
 )
 
-# ==========================================
+# ----------------------------------------
 # ASSESSMENT DATA
-# ==========================================
 
 print("\nASSESSMENT DATA")
 
@@ -87,9 +86,8 @@ print("\nTime and Space Complexity")
 print("Time : O(n)")
 print("Space: O(n)")
 
-# ==========================================
+# ----------------------------------------
 # FINAL OUTPUT
-# ==========================================
 
 print("\nFINAL OUTPUT")
 

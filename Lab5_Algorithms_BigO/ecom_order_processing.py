@@ -155,9 +155,8 @@ algorithms = {
     "Insertion Sort": insertion_sort
 }
 
-# ==========================================
+# ----------------------------------------
 # ASSESSMENT DATA
-# ==========================================
 
 print("\nASSESSMENT DATA")
 
@@ -215,9 +214,8 @@ print("Insertion Sort : O(n²)")
 print("Best Case Insertion Sort: O(n)")
 print("Worst Case: O(n²)")
 
-# ==========================================
+# ----------------------------------------
 # FINAL OUTPUT
-# ==========================================
 
 print("\nFINAL OUTPUT")
 
