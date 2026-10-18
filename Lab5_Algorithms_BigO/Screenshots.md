@@ -10,4 +10,6 @@ Screenshots for submission
 ![Project Screenshot](./images/exercise2.png)
 #
 ### Exercise 3
-![Project Screenshot](./images/exercise3.png)
+![Project Screenshot](./images/exercise3.1.png)
+![Project Screenshot](./images/exercise3.2.png)
+![Project Screenshot](./images/exercise3.3.png)
